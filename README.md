@@ -1,2 +1,2 @@
 # Website-social-media
-Web forum creat folosind PHP,MySQL,HTML,CSS,Javascript
+Website social media creat folosind ASP.NET,HTML,CSS,Javascript
